@@ -1,7 +1,0 @@
-[11:56] Edwin Kimutai Ruto
-System Hardening Lab
-Skip step 13-16 Skip 31-34 Do step 35 The buttons appear Do 14-16 Then jump to 32 an proceed
- like 1
-
-Data Structures-https://gchq.github.io/CyberChef/
-
