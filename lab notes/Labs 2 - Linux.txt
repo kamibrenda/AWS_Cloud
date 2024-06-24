@@ -1,0 +1,22 @@
+Lab 1
+Public Ip - 34.220.174.147
+
+Labs 2 - Linux
+LabRegion	us-west-2
+PublicIP	54.186.104.53
+
+Lab 3 - Linux  
+LabRegion	us-west-2
+PublicIP	54.213.13.51
+
+Lab 3 - editing files
+LabRegion	us-west-2
+PublicIP	35.166.58.177
+
+Lab 5 - Working with file system
+
+
+lab 6 - Working with files
+
+LabRegion	us-west-2
+PublicIP	35.87.200.68
