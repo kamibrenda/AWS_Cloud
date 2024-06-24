@@ -1,3 +1,0 @@
-Labs 2 - Linux
-LabRegion	us-west-2
-PublicIP	34.221.204.91
