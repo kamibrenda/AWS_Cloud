@@ -13,3 +13,8 @@ def test_function(x,y):
 
 #invoking-calling the function
 test_function('dog', 'cat')
+
+
+animal = 'duck'
+legs = 2 
+print(f'print'+str(type(legs)))
