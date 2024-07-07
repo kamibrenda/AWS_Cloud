@@ -26,3 +26,10 @@
     
     •MySQL Server:MySQL Server is case sensitive by default except in Microsoft Windows.
 
+   **SQL Project**
+    The following are some of the resources that the stakeholders have provided:
+    1. *New inventory form:* Paper form to collect information on the new titles that the store has received. One of the managers uses this form to update a spreadsheet that tracks store inventory.
+    2. *Inventory spreadsheet:* A shared spreadsheet that lists all the inventory that the store owns.
+    3. *Customer receipt:* An example of a sales receipt that customers receive.
+    4. *Monthly sales report:* Each month, one of the managers manually produces a monthly sales report, which they provide to the store owners and management team.
+
