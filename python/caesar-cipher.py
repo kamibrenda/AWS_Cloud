@@ -2,11 +2,13 @@
 def getDoubleAlphabet(alphabet):
     doubleAlphabet = alphabet + alphabet
     return doubleAlphabet
+print (getDoubleAlphabet('ABC'))
 
 #function to encrypt input text
 def getMessage():
     stringToEncrypt = input("Please enter a message to encrypt:")
     return stringToEncrypt 
+print (getDoubleAlphabet('ABC'))
 
 #For encryption an decryption
 def encryptMessage(message, cipherKey, alphabet):
