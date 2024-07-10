@@ -8,9 +8,9 @@ print (getDoubleAlphabet('ABC'))
 def getMessage():
     stringToEncrypt = input("Please enter a message to encrypt:")
     return stringToEncrypt 
-print (getDoubleAlphabet('ABC'))
 
-#For encryption an decryption
+
+#For encryption and decryption
 def encryptMessage(message, cipherKey, alphabet):
     encryptedMessage = ""
     uppercaseMessage = ""
