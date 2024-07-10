@@ -20,6 +20,9 @@
     #code exp a:*open* -returns a file handler to the files/insulin.json file.
     #code exp b:*json.load*- reads the JSON file and returns the content as a Python dictionary.
 
+    d.debug-ceaser-1.py
+     A traceback is a stack trace that starts from the point of an exception handler which then goes down the call chain to the point where the exception was raised in short an error occurred.
+
     ### Bonus: Cleaning preproinsulin-seq.txt programmatically
     Cleaning source data files is a common task in computer programming. You could programmatically clean preproinsulin-seq.txt in several ways—for example, by using Bash, Python, or another programming language of choice. Try using regex to programmatically strip the file of ORIGIN, its numbers, the two slashes (//), spaces, and line breaks or return carriages. You could also confirm programmatically that the file has 110 characters.
 
