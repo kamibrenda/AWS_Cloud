@@ -39,4 +39,6 @@
     2. *Inventory spreadsheet:* A shared spreadsheet that lists all the inventory that the store owns.
     3. *Customer receipt:* An example of a sales receipt that customers receive.
     4. *Monthly sales report:* Each month, one of the managers manually produces a monthly sales report, which they provide to the store owners and management team.
-
+3. AWS Lambda
+   
+   The salesAnalysisReportDataExtractor-v3.zip file is a Python implementation of a Lambda function that makes use of the PyMySQL open-source client library to access the MySQL café database. This library has been packaged into the pymysql-v3.zip which is uploaded to Lambda layer next.
