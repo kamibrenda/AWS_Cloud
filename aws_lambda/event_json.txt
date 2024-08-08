@@ -1,0 +1,6 @@
+{
+  "dbUrl": "ec2-50-112-192-163.us-west-2.compute.amazonaws.com",
+  "dbName": "cafe_db",
+  "dbUser": "root",
+  "dbPassword": "########"
+}
