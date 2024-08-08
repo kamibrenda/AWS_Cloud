@@ -21,7 +21,7 @@ Resources:
 ###########
 
   LabVPC:
-    Type: AWS::EC2::VPC::S3
+    Type: AWS::EC2::VPC
     Properties:
       CidrBlock: !Ref LabVpcCidr
       EnableDnsSupport: true
@@ -116,7 +116,11 @@ Resources:
       Tags:
         - Key: Name
           Value: App
-
+          ###########
+# S3 Bucket
+###########
+  MyS3Bucket:
+    Type: AWS::S3::Bucket
 ###########
 # Outputs
 ###########
